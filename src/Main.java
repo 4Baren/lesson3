@@ -40,6 +40,7 @@ public class Main {
         int speed = new Scanner(System.in).nextInt();
         double kmMin = speed / minHour;
         System.out.println("Time: " + length / kmMin + " min");
+        System.out.println("/////////////////////////////////////");
 
     }
 }
