@@ -41,6 +41,5 @@ public class Main {
         double kmMin = speed / minHour;
         System.out.println("Time: " + length / kmMin + " min");
         System.out.println("/////////////////////////////////////");
-
     }
 }
