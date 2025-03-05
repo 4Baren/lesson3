@@ -5,9 +5,9 @@ public class DoWhile {
         Scanner scanner = new Scanner(System.in);
         int value;
         do {
-            System.out.println("Input 5");
+            System.out.println("Input: 5");
             value = scanner.nextInt();
         } while (value != 5);
-        System.out.println("You input: 5");
+        System.out.println("Your input: 5");
     }
 }
